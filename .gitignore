@@ -1,5 +1,9 @@
 .venv/
 brutos/
 .env
+.pgpass
 __pycache__/
 .DS_Store
+/VIDEO.md
+
+.pytest_cache/
